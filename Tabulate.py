@@ -1,4 +1,4 @@
-from Tabulate import tabulate
+import tabulate
 from datetime import datetime
 import os
 import sys
