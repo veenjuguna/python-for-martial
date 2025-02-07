@@ -22,3 +22,12 @@ if __name__ == "__main__":
     # sghjkmxcvbnm,.xdbhnm
     # sdfghjkldgfhm,.xcvbnm
     # sfghjk.lkjhsdhjjk
+    # sghjkmxcvbnm,.xdbhnm
+    # sdfghjkldgfhm,.xcvbnm
+    #   edhb sxnkdsxzbjsdbuijk dsuihk sdcvxb msvxcbk sdvcxh
+    # fghsdmakzxhjbd asujhbk ndsavjkmdsuixbjh xcz md cx
+
+    # dsaukm dascyhzjn dcduosjkz xhjnsdcbujkn dcdhxc zuijkdn dshxj hfikzxhjnfjzkbdkjacx
+   '
+#    euadfgickxzkondaucjk sda
+# gbasklnzuojadfuhjkm diojbc hebdaoudbdqjas' 
